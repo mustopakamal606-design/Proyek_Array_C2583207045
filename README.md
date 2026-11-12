@@ -1,11 +1,17 @@
 Proyek-Array-C-NIM
 	
 Nama: mustopa kamal
+
 NIM:C2583207045
+
 Kelas:PTI3A
+
 Mata Kuliah:Algoritma dan Pemrograman Lanjutan
+
 Dosen Pengampu:Taofik Muhammad, M.Kom
+
 Nama Proyek	Sistem:Monitoring Stok dan Penjualan Kantin Kampus
+
 Deskripsi Singkat
 Aplikasi console berbahasa C untuk mengelola produk, stok, transaksi penjualan, pencarian, pengurutan, dan laporan penjualan kantin kampus. Data disimpan dalam array selama program berjalan (tanpa database/file eksternal). Kapasitas maksimal 50 produk, dengan 6 produk sebagai data awal.
 
