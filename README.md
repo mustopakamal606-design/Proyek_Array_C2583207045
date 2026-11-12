@@ -1,5 +1,4 @@
-Proyek-Array-C-NIM
-	
+
 Nama: mustopa kamal
 
 NIM:C2583207045
@@ -47,10 +46,12 @@ Input: beli melebihi stok. Hasil: ditolak, stok tetap. Stok tidak cukup
 Input: menu 8. Hasil: unit, pendapatan, dan terlaris benar. Laporan
 6. Pengurutan
 Input: menu 7 (harga dan penjualan). Hasil: urutan sesuai ketentuan. Pengurutan
-
 7. Pencarian dan stok
 
 Input: menu 6 cari produk, menu 9 cek stok < 5. Hasil: hasil dan peringatan tepat. Pencarian dan stok
+
+tangkapan layar hasil pengujian
+
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/ceb2648f-3b48-4051-b43d-657c14723d22" />
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/bf95d10e-2e8e-44cd-a938-38d67e0963d5" />
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/8b136552-1d12-4bc2-bc96-507842d3f3e5" />
